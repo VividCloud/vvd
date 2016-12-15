@@ -5,3 +5,4 @@
 * [Passport.js](https://github.com/passport) as default Accounts system (Should be wrapped for easier usage)
 * [Vue.js](https://vuejs.org) as View Layer, with server-side rendering works out of box
 * [Express.js](http://expressjs.com/) as server-side router
+* [Webpack 2 with Rollup](https://www.npmjs.com/package/rollup-loader) as bundle builder for both client and server
